@@ -19,7 +19,7 @@ A simple Python script to convert English text to Morse code and vice versa.
 1. Clone or download the repository.
 2. Run the script:
 
-```bash
+
 python english_morse_converter.py
 
     Follow the prompts:
@@ -46,6 +46,3 @@ Notes
 
     Words in Morse code must be separated by /.
 
-License
-
-MIT License

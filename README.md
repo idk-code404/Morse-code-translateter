@@ -42,7 +42,6 @@ English Text: HELLO WORLD
 
 Notes
 
-    Unknown characters are replaced with ?.
+Unknown characters are replaced with ?.
 
-    Words in Morse code must be separated by /.
-
+Words in Morse code must be separated by /.
